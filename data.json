@@ -1,0 +1,64 @@
+[
+   {
+      "id":1,
+      "infectorId":null,
+      "infecteeIds":[
+         2,
+         3
+      ],
+      "dayInfected":0,
+      "dayContag":4,
+      "dayIso":9999,
+      "dayDiag":9999,
+      "dayTraced":9999
+   },
+   {
+      "id":2,
+      "infectorId":1,
+      "infecteeIds":[
+         4,
+         5
+      ],
+      "dayInfected":4,
+      "dayContag":9,
+      "dayIso":12,
+      "dayDiag":14,
+      "dayTraced":9999
+   },
+   {
+      "id":3,
+      "infectorId":1,
+      "infecteeIds":[
+
+      ],
+      "dayInfected":5,
+      "dayContag":10,
+      "dayIso":12,
+      "dayDiag":9999,
+      "dayTraced":9999
+   },
+   {
+      "id":4,
+      "infectorId":2,
+      "infecteeIds":[
+
+      ],
+      "dayInfected":0,
+      "dayContag":4,
+      "dayIso":14,
+      "dayDiag":15,
+      "dayTraced":14
+   },
+   {
+      "id":5,
+      "infectorId":2,
+      "infecteeIds":[
+
+      ],
+      "dayInfected":0,
+      "dayContag":4,
+      "dayIso":14,
+      "dayDiag":15,
+      "dayTraced":14
+   }
+]
