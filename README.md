@@ -18,7 +18,7 @@ Once executed, the code will generate a file.png with an image of the network an
 of your network.
 
 ## Model Information
-This program creates a graph network based on the output of a simple contract tracing model. Each item in the JSON file will
+This program creates a graph network based on the output of a simple contact tracing model. Each item in the JSON file will
 contain an id representing the unique person in addition to some other data, like who else they were in contact with etc.
 Each entry in the JSON file will look something like this:
 ```
