@@ -46,4 +46,4 @@ using and it's well documented. Using some mockup results, my program generates 
 
 ## Contributions
 The JSON data was provided by [Covid Watch](https://github.com/covid19risk/) in their ongoing effort to build a scalable 
-solutions to the COVID-19 pandemic.
+solution to the COVID-19 pandemic.
